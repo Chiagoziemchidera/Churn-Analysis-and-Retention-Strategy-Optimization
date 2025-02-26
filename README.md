@@ -1,4 +1,7 @@
-# Churn-Analysis
+# Churn-Analysis & Retention Strategy Optimization
+
+![istockphoto-2157150390-612x612](https://github.com/user-attachments/assets/3f6c7772-0f36-4d1e-b1ee-6e23fa627b43)
+
 
 Churn analysis is the process of identifying and understanding why customers stop using a product or service. Churn analysis isn’t only about predicting who will leave, it’s about understanding why they did. Data helps spot patterns, reveal trends, and drive action before it’s too late.
 
@@ -84,5 +87,87 @@ These transformations helped standardize financial data and improve customer seg
 
 <img width="121" alt="loyalty column" src="https://github.com/user-attachments/assets/6f1eb3ab-dad7-41d0-ba7f-c87642615f55" />
 
-- **DAX formula can be seen in [DAX Formula](
 
+- **DAX formula can be seen in [DAX Formula](https://github.com/Chiagoziemchidera/Churn-Analysis/blob/main/DAX-Formula).
+
+## Analysis Insights and Recommendations
+
+<img width="595" alt="churn1" src="https://github.com/user-attachments/assets/97d1a092-fb3e-4a3a-821b-b24c155b5fcb" />
+
+
+<img width="591" alt="churn2" src="https://github.com/user-attachments/assets/ac827dce-c1a2-4474-b99f-06ae924d8ebb" />
+
+ 
+
+## **1️⃣ Short-Term Contracts & First-Year Customers Are at High Risk**  
+📊 **55% of churned customers were on month-to-month contracts, while only 21% had one-year contracts and 24% had two-year contracts.**  
+📊 **29% of churned customers left within their first year, with churn rates decreasing as tenure increases.**  
+
+💡 **Insight:**  
+Customers on **short-term contracts or in their first year** are significantly more likely to leave due to a lack of commitment, early dissatisfaction, or unmet expectations.  
+
+✅ **Recommendations:**  
+- **Push longer contracts** with discounts, exclusive perks, or bundling options to lock in customers.  
+- **Improve onboarding** by providing proactive customer support, tutorials, and engagement within the first 90 days.  
+- **Offer retention incentives** like a 6-month loyalty discount to encourage longer tenure.  
+
+## **2️⃣ Fiber Optic Customers Have the Highest Churn Rate**  
+📊 **41.89% of fiber optic users churn, compared to 18.96% of DSL users and 7.40% of customers with no internet.**  
+
+💡 **Insight:**  
+Despite being a premium service, fiber optic users are leaving at a **higher rate**, likely due to **service issues, high pricing, or unmet expectations.**  
+
+✅ **Recommendations:**  
+- **Investigate service complaints:** Are there frequent outages or slow speeds? Address network issues.  
+- **Improve customer support:** Prioritize fiber optic customers with faster issue resolution and VIP service options.  
+- **Introduce retention incentives:** Discounts, loyalty rewards, or free service upgrades to keep fiber users engaged.  
+
+## **3️⃣ Electronic Check Users Face the Highest Churn Risk**  
+📊 **34% of churned customers used electronic checks for payments, compared to 23% using mailed checks, 22% using bank transfers, and 22% using credit cards.**  
+
+💡 **Insight:**  
+Customers using **electronic checks may face payment failures, security concerns, or inconvenience**, making them more likely to leave.  
+
+✅ **Recommendations:**  
+- **Encourage auto-pay setups** via credit card or bank transfer with discounts or bonuses.  
+- **Simplify payment processes** for electronic check users and reduce failed transaction rates.  
+- **Investigate customer feedback** to understand why electronic check users are dissatisfied.  
+
+## **4️⃣ High Monthly Charges Drive Churn**  
+📊 **Customers with higher monthly bills are more likely to churn, with an average monthly charge of $74.44 among churned customers.**  
+
+💡 **Insight:**  
+Customers may feel they are **overpaying** or **not receiving enough value** for the price.  
+
+✅ **Recommendations:**  
+- **Introduce tiered pricing models** to offer more flexibility and affordability.  
+- **Provide bundled discounts** to make high-cost plans feel more valuable.  
+- **Offer premium benefits** (priority support, exclusive content, or loyalty rewards) to justify higher pricing.  
+
+## **5️⃣ Service Bundling Reduces Churn**  
+📊 **91% of churned customers used phone services, while 44% had streaming TV & movies.**  
+📊 **Customers with tech support & online security services had lower churn (only 17% & 16% adoption among churned users).**  
+
+💡 **Insight:**  
+Customers who bundle multiple services (e.g., internet + streaming + tech support) **tend to stay longer**, while single-service users (e.g., internet-only) **are more likely to churn.**  
+
+✅ **Recommendations:**  
+- **Cross-sell & bundle services** (e.g., internet + streaming TV) at a discounted rate.  
+- **Promote value-added services** like tech support & security with free trials.  
+- **Reward multi-service customers** with loyalty benefits or exclusive perks.
+
+## **6️⃣ Tech Support & Online Security Services Are Underutilized**  
+📊 Only 17% of churned customers had tech support, and 16% had online security services.  
+
+💡 **Insight:** These add-ons have low adoption, which suggests that customers do not see enough value in them or are unaware of their benefits.  
+
+✅ **Recommendation:** Promote tech support and security services through free trials, proactive customer education, and bundling with internet services to improve perceived value.  
+  
+
+## **🔹 Final Takeaways & Business Actions**  
+📌 **Convert short-term contract users** into long-term subscribers through discounts & incentives.  
+📌 **Fix service issues for fiber optic users** to reduce their unexpectedly high churn rate.  
+📌 **Shift electronic check users** to more reliable payment methods with autopay incentives.  
+📌 **Make high-cost plans feel worthwhile** through bundled discounts & premium perks.  
+📌 **Encourage service bundling** to increase customer stickiness and long-term retention.  
+ 

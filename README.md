@@ -1,6 +1,6 @@
 # Churn-Analysis
 
-Churn analysis is the process of identifying and understanding why customers stop using a product or service. By analyzing patterns, behaviors, and factors contributing to churn, it helps businesses reduce customer attrition.
+Churn analysis is the process of identifying and understanding why customers stop using a product or service. Churn analysis isn’t only about predicting who will leave, it’s about understanding why they did. Data helps spot patterns, reveal trends, and drive action before it’s too late.
 
 ## Types of Churn
 
@@ -18,9 +18,8 @@ Churn analysis is the process of identifying and understanding why customers sto
 
 1. **Defining Churn** – Determining whether churn is voluntary (customer cancels) or involuntary (payment failure, inactivity).  
 2. **Data Collection & Preparation** – Gather customer data, transaction history, engagement metrics, and support interactions.  
-3. **Exploratory Data Analysis (EDA)** – Identifying trends, correlations, and potential churn indicators.  
-4. **Churn Prediction Modeling** – Using machine learning techniques like logistic regression, decision trees, or neural networks to predict at-risk customers.  
-5. **Insights & Actionable Strategies** – Developing retention strategies such as personalized offers, proactive customer engagement, and loyalty programs to reduce churn.  
+3. **Exploratory Data Analysis (EDA)** – Identifying trends, correlations, and potential churn indicators.    
+4. **Insights & Actionable Strategies** – Developing retention strategies such as personalized offers, proactive customer engagement, and loyalty programs to reduce churn.  
 
 Churn analysis is widely used in telecom, SaaS, finance, and e-commerce industries to improve customer retention and business growth.
 

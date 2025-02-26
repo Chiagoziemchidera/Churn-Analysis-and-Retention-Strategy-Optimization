@@ -64,7 +64,7 @@ Customer retention is critical in the telecom industry, as acquiring new custome
 Despite previous attempts to analyze customer data using Excel, those efforts have not yielded actionable insights. They need a data-driven, predictive approach to identify at-risk customers before they churn. Additionally, they require clear and visually intuitive insights to support management in making informed retention decisions.  
 A more proactive strategy will help them reduce churn, improve customer satisfaction, and drive business growth.
 - **Business Questions**  
-Which customer segments are most likely to churn, and what factors contribute to their decision?
+What factors contributed to their decision to churn?
 
 ## Data Cleaning & Transformation
 

@@ -84,5 +84,5 @@ These transformations helped standardize financial data and improve customer seg
 
 <img width="121" alt="loyalty column" src="https://github.com/user-attachments/assets/6f1eb3ab-dad7-41d0-ba7f-c87642615f55" />
 
-
+- **DAX formula can be seen in [DAX Formula](
 

@@ -68,7 +68,7 @@ What factors contributed to their decision to churn?
 
 ## Data Cleaning & Transformation
 
-For this project, I focused on refining the dataset to improve clarity and usability. Key transformations included:  
+I refined the dataset to improve clarity and usability. Key transformations included:  
 
 - **Currency Formatting:** The `MonthlyCharges` and `TotalCharges` columns were converted from plain numerical values to a currency format in **US dollars ($)** for better readability and financial analysis.  
 - **Customer Loyalty Categorization:** A new `Loyalty` column was created during the **initial data transformation and load** in Power BI using **Power Query (M language)**. This column categorizes customers based on their tenure:  

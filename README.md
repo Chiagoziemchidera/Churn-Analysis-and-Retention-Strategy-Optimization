@@ -99,7 +99,7 @@ These transformations helped standardize financial data and improve customer seg
 
  
 
-## **1️⃣ Short-Term Contracts & First-Year Customers Are at High Risk**  
+## ** 1️. Short-Term Contracts & First-Year Customers Are at High Risk**  
 📊 **55% of churned customers were on month-to-month contracts, while only 21% had one-year contracts and 24% had two-year contracts.**  
 📊 **29% of churned customers left within their first year, with churn rates decreasing as tenure increases.**  
 
@@ -111,7 +111,7 @@ Customers on **short-term contracts or in their first year** are significantly m
 - **Improve onboarding** by providing proactive customer support, tutorials, and engagement within the first 90 days.  
 - **Offer retention incentives** like a 6-month loyalty discount to encourage longer tenure.  
 
-## **2️⃣ Fiber Optic Customers Have the Highest Churn Rate**  
+## ** 2️. Fiber Optic Customers Have the Highest Churn Rate**  
 📊 **41.89% of fiber optic users churn, compared to 18.96% of DSL users and 7.40% of customers with no internet.**  
 
 💡 **Insight:**  
@@ -122,7 +122,7 @@ Despite being a premium service, fiber optic users are leaving at a **higher rat
 - **Improve customer support:** Prioritize fiber optic customers with faster issue resolution and VIP service options.  
 - **Introduce retention incentives:** Discounts, loyalty rewards, or free service upgrades to keep fiber users engaged.  
 
-## **3️⃣ Electronic Check Users Face the Highest Churn Risk**  
+## ** 3️. Electronic Check Users Face the Highest Churn Risk**  
 📊 **34% of churned customers used electronic checks for payments, compared to 23% using mailed checks, 22% using bank transfers, and 22% using credit cards.**  
 
 💡 **Insight:**  
@@ -133,7 +133,7 @@ Customers using **electronic checks may face payment failures, security concerns
 - **Simplify payment processes** for electronic check users and reduce failed transaction rates.  
 - **Investigate customer feedback** to understand why electronic check users are dissatisfied.  
 
-## **4️⃣ High Monthly Charges Drive Churn**  
+## ** 4️. High Monthly Charges Drive Churn**  
 📊 **Customers with higher monthly bills are more likely to churn, with an average monthly charge of $74.44 among churned customers.**  
 
 💡 **Insight:**  
@@ -144,7 +144,7 @@ Customers may feel they are **overpaying** or **not receiving enough value** for
 - **Provide bundled discounts** to make high-cost plans feel more valuable.  
 - **Offer premium benefits** (priority support, exclusive content, or loyalty rewards) to justify higher pricing.  
 
-## **5️⃣ Service Bundling Reduces Churn**  
+## ** 5️. Service Bundling Reduces Churn**  
 📊 **91% of churned customers used phone services, while 44% had streaming TV & movies.**  
 📊 **Customers with tech support & online security services had lower churn (only 17% & 16% adoption among churned users).**  
 
@@ -156,7 +156,7 @@ Customers who bundle multiple services (e.g., internet + streaming + tech suppor
 - **Promote value-added services** like tech support & security with free trials.  
 - **Reward multi-service customers** with loyalty benefits or exclusive perks.
 
-## **6️⃣ Tech Support & Online Security Services Are Underutilized**  
+## ** 6️. Tech Support & Online Security Services Are Underutilized**  
 📊 Only 17% of churned customers had tech support, and 16% had online security services.  
 
 💡 **Insight:** These add-ons have low adoption, which suggests that customers do not see enough value in them or are unaware of their benefits.  
@@ -164,7 +164,7 @@ Customers who bundle multiple services (e.g., internet + streaming + tech suppor
 ✅ **Recommendation:** Promote tech support and security services through free trials, proactive customer education, and bundling with internet services to improve perceived value.  
   
 
-## **🔹 Final Takeaways & Business Actions**  
+## ** Final Takeaways & Business Actions**  
 📌 **Convert short-term contract users** into long-term subscribers through discounts & incentives.  
 📌 **Fix service issues for fiber optic users** to reduce their unexpectedly high churn rate.  
 📌 **Shift electronic check users** to more reliable payment methods with autopay incentives.  
